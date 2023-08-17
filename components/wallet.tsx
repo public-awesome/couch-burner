@@ -126,7 +126,7 @@ export const WalletSection = () => {
       <div>
         {username && (
           <div className="border-black/10 hover:border-black/50 dark:border-zinc-800 hover:dark:border-zinc-400 flex cursor-pointer flex-row items-center justify-between border px-4 py-3 transition duration-150 ease-in-out lg:w-72 lg:rounded-lg">
-            <a className="focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 rounded-sm" href="/profile/stars1qlmwjkg7uu4awajw5aunctjdce9q657jddhtdf/all">
+            <a className="focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500 rounded-sm" href="https://www.stargaze.zone/p/stars1qlmwjkg7uu4awajw5aunctjdce9q657jddhtdf/tokens">
               <div>
                 <p className="w-32 truncate text-xs font-medium">
                   <span className="group inline-flex max-w-full items-center gap-2">
